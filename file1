@@ -1,2 +1,6 @@
 My first line
+<<<<<<< HEAD
 new line started
+=======
+final line added
+>>>>>>> feb513eac2cf30f793ad3250ac86accd87fcafb9
